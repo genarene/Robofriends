@@ -1,6 +1,6 @@
 {
-  "name": "Robofriends",
-  "homepage": "https://genarene.github.io/Robofriends",
+  "name": "robofriends",
+  "homepage": "https://genarene.github.io/robofriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
